@@ -1,4 +1,3 @@
 # chatroom
-chatroom demo for multi users
-version 1.0
-Spring, MySQL, Bootstrap
+A chatroom demo for multi users. Version 1.0. Tech with Spring, MySQL, Bootstrap.
+
